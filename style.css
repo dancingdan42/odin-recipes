@@ -1,0 +1,28 @@
+h1 {
+    color: blueviolet;
+    font-weight: bolder;
+    text-align: center;
+}
+
+img {
+    height: 250px;
+    width: auto;
+}
+
+ul {
+    background-color: aqua;
+    font-weight: 500;
+}
+
+.main-list {
+    background-color: white;
+}
+
+ol {
+    background-color: burlywood;
+}
+.center {
+    text-align: center;
+    color: red;
+}
+
