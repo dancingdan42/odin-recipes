@@ -6,3 +6,5 @@ First update: I created the home page (index.html), I also created 3 subpages fo
 Second update: I added a picture to each recipe page. To acomplish this I created an images folder in the root folder (sibling to index.html). Then I added a pic of each food and used the img tag (with alt and height/weight attributes) to each page.
 
 Third update: I added a heading (h3) that says "Description" on each recipe page followed by a paragraph (<p></p>) describing it.
+
+Fourth update: This was a big one. I added two lists on each recipe page. The first was an unordered list (<ul></ul>) to show ingredients. The second was an ordered list (<ol></ol>) to show steps to cook the recipe. Then I also turned the links on the home page into an unordered list as well.
