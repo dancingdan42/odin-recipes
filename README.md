@@ -1,1 +1,2 @@
 # odin-recipes
+I am creating my first website using HTML (no CSS). This is the first real project I'm undertaking in The Odin Project. I will list skills used below this intro as I come across the need to use them. - Dan
